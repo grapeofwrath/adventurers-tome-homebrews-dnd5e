@@ -1,0 +1,217 @@
+{
+  "id": "adventurers-tome-homebrews-dnd5e",
+  "title": "Adventurer's Tome Homebrews - DnD5e",
+  "description": "Custom assets packaged in compendiums for the DnD5e system in Foundry VTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "grapeofwrath",
+      "discord": "grapeofwrath#3377"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "ATH Actors",
+      "path": "/packs/actors.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "adventure",
+      "label": "ATH Adventures",
+      "path": "/packs/adventure.db",
+      "entity": "Adventure",
+      "type": "Adventure",
+      "system": "dnd5e"
+    },
+    {
+      "name": "cards",
+      "label": "ATH Cards",
+      "path": "/packs/cards.db",
+      "entity": "Cards",
+      "type": "Cards"
+    },
+    {
+      "name": "items",
+      "label": "ATH Items",
+      "path": "/packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "journals",
+      "label": "ATH Journals",
+      "path": "/packs/journals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "books",
+      "label": "ATH Books",
+      "path": "/packs/books.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "macros",
+      "label": "ATH Macros",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    },
+    {
+      "name": "maps",
+      "label": "ATH Scenes",
+      "path": "/packs/maps.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "rolltables",
+      "label": "ATH Roll Tables",
+      "path": "/packs/rolltables.db",
+      "entity": "RollTable",
+      "type": "RollTable"
+    },
+    {
+      "name": "actions",
+      "label": "ATH Actions",
+      "path": "/packs/actions.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "backgrounds",
+      "label": "ATH Backgrounds",
+      "path": "/packs/backgrounds.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "options",
+      "label": "ATH Character Creation Options",
+      "path": "/packs/options.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "classes",
+      "label": "ATH Classes",
+      "path": "/packs/classes.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "subclasses",
+      "label": "ATH Subclasses",
+      "path": "/packs/subclasses.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "features",
+      "label": "ATH Class & Subclass Features",
+      "path": "/packs/features.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "conditions",
+      "label": "ATH Conditions & Diseases",
+      "path": "/packs/conditions.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "creatures",
+      "label": "ATH Creatures",
+      "path": "/packs/creatures.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "cults",
+      "label": "ATH Cults & Supernatural Boons",
+      "path": "/packs/cults.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "feats",
+      "label": "ATH Feats",
+      "path": "/packs/feats.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "objects",
+      "label": "ATH Objects",
+      "path": "/packs/objects.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "options-features",
+      "label": "ATH Other Options & Features",
+      "path": "/packs/options-features.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "psionics",
+      "label": "ATH Psionics",
+      "path": "/packs/psionics.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "races",
+      "label": "ATH Races",
+      "path": "/packs/races.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "subraces",
+      "label": "ATH Subraces",
+      "path": "/packs/subraces.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "spells",
+      "label": "ATH Spells",
+      "path": "/packs/spells.db",
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ],
+  "url": "https://github.com/grapeofwrath/adventurerstome-homebrews-dnd5e",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
